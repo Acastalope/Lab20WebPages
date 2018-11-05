@@ -1,0 +1,20 @@
+p,ul {
+	color: black;
+	background-color: LightGray;
+	border: 1px solid DarkSlateGray;
+}
+
+.blogging {
+	background-color: Chartreuse;
+}
+
+.developing {
+	background-color: LightGray;
+}
+
+body {
+    background-color: LightSteelBlue;
+}
+#header2 {
+	background-color: Red
+}
